@@ -1,0 +1,27 @@
+<RCC>
+  <qresource prefix="/">
+    <file>img/heart.svg</file>
+    <file>img/heart_active.svg</file>
+    <file>img/heart_red.svg</file>
+    <file>img/heart_red_active.svg</file>
+    <file>img/next.svg</file>
+    <file>img/next_active.svg</file>
+    <file>img/trash.svg</file>
+    <file>img/trash_active.svg</file>
+    <file>img/pause.svg</file>
+    <file>img/pause_active.svg</file>
+    <file>img/volume.svg</file>
+    <file>img/volume_active.svg</file>
+    <file>img/setting.svg</file>
+    <file>img/setting_active.svg</file>
+    <file>img/arrow_left.png</file>
+    <file>img/arrow_right.png</file>
+    <file>img/bg.png</file>
+    <file>icon.png</file>
+    <file>img/album_init.jpg</file>
+    <file>img/arrow_right_clicked.png</file>
+    <file>img/arrow_left_clicked.png</file>
+    <file>img/user_man_circle.png</file>
+    <file>img/apple-ios-linen-texture.jpg</file>
+  </qresource>
+</RCC>

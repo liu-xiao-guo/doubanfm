@@ -1,0 +1,14 @@
+name: doubanfm 
+version: '0.1' 
+summary: douban FM
+description: |
+  This is douban FM
+
+grade: stable 
+confinement: devmode 
+
+parts:
+  qt-app:
+    source: ./src
+    plugin: qmake
+    qt-version: qt5
